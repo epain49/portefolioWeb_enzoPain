@@ -1,7 +1,7 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
 html {
-    color: #222;
+    color: #0aeb45;
     font-size: 0.5em;
     line-height: 1.4;
 }
@@ -44,7 +44,7 @@ textarea {
 }
 .browserupgrade {
     margin: 0.2em 0;
-    background: #ccc;
+    background: #000000;
     color: #000;
     padding: 0.2em 0;
 }
